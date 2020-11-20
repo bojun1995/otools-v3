@@ -4,7 +4,7 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: () => import('../views/base/app-container/index')
+    component: () => import('../views/base/desktop/index')
   },
 ]
 
